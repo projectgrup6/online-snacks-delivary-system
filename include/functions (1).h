@@ -1,0 +1,10 @@
+void options( );
+int admin( );
+void order_menu( );
+void menu_admin( );
+void menu_user( );
+void clear( );
+void add_record( );
+void display( );
+void search( );
+void delete( );
